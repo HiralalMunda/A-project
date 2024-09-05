@@ -1,8 +1,4 @@
 welcome again to the Git Devops session
-
-[C
-
-:wq
-:wq
-
-Q
+Good morning all
+welcome to gitahub
+thank yuo
